@@ -3,19 +3,28 @@ import './App.css'
 import Top from './components/section1'
 import Middle from './components/section2'
 import Bottom from './components/section3'
-
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import L1 from './pages/L1'
 function App() {
 
 
   return (
-    <div>
+    <Router>
+      <Routes>
+        <Route path='/' element={
+          <div>
       
-      <Top />
-
-      <Middle />
-        
-      <Bottom />  
-    </div>
+          <Top />
+    
+          <Middle />
+            
+          <Bottom />  
+        </div>
+        } />
+        <Route path='/L1' element={<L1 />} />
+      </Routes>
+    
+    </Router>
   )
 }
 

@@ -1,6 +1,7 @@
 import L1 from '../Pictures/L1/1.png'
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md';
 import { IoMdEye } from 'react-icons/io';
+import { Link } from 'react-router-dom';
 const Bottom = () => {
     return (  
         <div className="px-[20px] lg:px-[50px]">
@@ -17,7 +18,7 @@ const Bottom = () => {
                             <IoMdEye className='hidden md:block md:w-[30px] md:h-[30px]'/>
                             <p className='text-center leading-[1] font-semibold'>OVER <br />3k <span className='md:hidden'>views</span></p>
                         </div>
-                        <div className='bg-[#ffeb3b] text-[#756d25] rounded-sm p-[2px] text-[10px] md:text-[16px] font-medium cursor-pointer'>Furnitures</div>
+                        <Link to="/L1" className='bg-[#ffeb3b] text-[#756d25] rounded-sm p-[2px] text-[10px] md:text-[16px] font-medium cursor-pointer'>Furnitures</Link>
                         <p className='bg-[#25f4ee] text-[#368a87] rounded-sm p-[2px] text-[10px] md:text-[16px] font-medium cursor-pointer'>Video</p>
                     </div>
                 </div>
