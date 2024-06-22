@@ -25,9 +25,9 @@ const L1 = () => {
       </div>
 
       <div className="flex flex-wrap justify-center items-center mt-[20px] gap-[10px]">
-        <div className="border-[2px] border-black rounded-md w-[150px]">
-            <div className="w-full h-[150px] bg-[#312b2b]"></div>
-            <p className="font-bold text-[13px] text-center py-[10px]">Chaise Lounge Chairs</p>
+        <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
+            <div className="w-full h-[150px] md:h-[250px] bg-[#312b2b]"></div>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Chaise Lounge Chairs</p>
         </div>
       </div>
     </div>
