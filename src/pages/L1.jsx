@@ -5,9 +5,17 @@ import L4 from "../Pictures/L1/4.png";
 const L1 = () => {
   return (
     <div className="px-[20px] lg:px-[50px]">
-      <div className="flex flex-wrap justify-center items-center">
+      <div className="flex flex-wrap justify-center items-center mt-[20px] gap-[10px]">
         <img
           src={L2}
+          className="object-cover w-[150px] md:w-[250px] h-[150px] md:h-[250px] shadow-xl"
+        />
+        <img
+          src={L3}
+          className="object-cover w-[150px] md:w-[250px] h-[150px] md:h-[250px] shadow-xl"
+        />
+        <img
+          src={L4}
           className="object-cover w-[150px] md:w-[250px] h-[150px] md:h-[250px] shadow-xl"
         />
       </div>
