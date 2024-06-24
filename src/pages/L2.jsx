@@ -1,27 +1,28 @@
-import { MdOutlPneKeyboardArrowRight } from "react-icons/md";
-import P1 from "../Pictures/P2/1.png";
-import P3 from "../Pictures/P2/3.png";
-import P6 from "../Pictures/P2/6.png";
-import one from "../Pictures/P2furniture/one.png";
-import two from "../Pictures/P2furniture/two.png";
-import three from "../Pictures/P2furniture/three.png";
-import four from "../Pictures/P2furniture/four.png";
-import five from "../Pictures/P2furniture/five.png";
-import six from "../Pictures/P2furniture/six.png";
+import { MdOutlineKeyboardArrowRight } from "react-icons/md";
+import L2 from "../Pictures/L1/2.png";
+import L3 from "../Pictures/L1/3.png";
+import L4 from "../Pictures/L1/4.png";
+import one from "../Pictures/L1furniture/one.png";
+import two from "../Pictures/L1furniture/two.png";
+import three from "../Pictures/L1furniture/three.png";
+import four from "../Pictures/L1furniture/four.png";
+import five from "../Pictures/L1furniture/five.png";
+import six from "../Pictures/L1furniture/six.png";
+import seven from "../Pictures/L1furniture/seven.png";
 const L1 = () => {
   return (
     <div className="px-[20px] lg:px-[50px]">
       <div className="flex flex-wrap justify-center items-center mt-[20px] gap-[10px]">
         <img
-          src={P1}
+          src={L2}
           className="object-cover w-[150px] md:w-[250px] h-[150px] md:h-[250px] shadow-xl"
         />
         <img
-          src={P3}
+          src={L3}
           className="object-cover w-[150px] md:w-[250px] h-[150px] md:h-[250px] shadow-xl"
         />
         <img
-          src={P6}
+          src={L4}
           className="object-cover w-[150px] md:w-[250px] h-[150px] md:h-[250px] shadow-xl"
         />
       </div>
@@ -54,6 +55,10 @@ const L1 = () => {
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ six } className="object-cover w-full h-[150px] md:h-[250px]"/>
             <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Blu Dot Lap 4 Drawer Dresser</p>
+        </div>
+        <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
+            <img src={ seven } className="object-cover w-full h-[150px] md:h-[250px]"/>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Normann Copenhagen Turn Side Table</p>
         </div>
       </div>
     </div>
