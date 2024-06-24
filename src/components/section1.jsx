@@ -12,9 +12,9 @@ const Top = () => {
                     <HiSearchCircle className='text-white'/>
                 </div>
                 <div className="flex flex-row items-center gap-x-[7px]">
-                    <div className="bg-[#25f4ee] p-[8px] rounded-full"><SiImessage className="w-[20px] h-[20px]"/></div>
-                    <div className="bg-[#fe2c55] p-[8px] rounded-full"><FaTiktok className="text-white w-[20px] h-[20px]"/></div>
-                    <div className="bg-[#ffeb3b] p-[8px] rounded-full"><RiInstagramFill className="w-[20px] h-[20px]"/></div>
+                    <div className="bg-[#25f4ee] p-[8px] rounded-full cursor-pointer"><SiImessage className="w-[20px] h-[20px]"/></div>
+                    <a href=""><div className="bg-[#fe2c55] p-[8px] rounded-full cursor-pointer"><FaTiktok className="text-white w-[20px] h-[20px]"/></div></a>
+                    <a href=""><div className="bg-[#ffeb3b] p-[8px] rounded-full cursor-pointer"><RiInstagramFill className="w-[20px] h-[20px]"/></div></a>
                 </div>
             </div>
 
