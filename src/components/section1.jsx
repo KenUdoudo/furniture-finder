@@ -5,7 +5,7 @@ import { RiInstagramFill } from "react-icons/ri";
 import { IoSparkles } from "react-icons/io5";
 const Top = () => {
     return (  
-        <div div className='bg-[url(./assets/bg.jpg)] bg-cover bg-no-repeat px-[20px] lg:px-[50px] pt-[20px]'>
+        <div div className='bg-[url(./assets/bg.jpg)] bg-cover bg-no-repeat px-[20px] lg:px-[50px] pt-[20px] font-monts'>
             <div className=" flex flex-row justify-between items-center">
                 <div className="flex flex-row items-center">
                     <p className="text-[20px] lg:text-[30px] font-semibold text-white">Furniture Finder</p>

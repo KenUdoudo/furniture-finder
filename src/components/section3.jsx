@@ -5,7 +5,7 @@ import { IoMdEye } from 'react-icons/io';
 import { Link } from 'react-router-dom';
 const Bottom = () => {
     return (  
-        <div className="px-[20px] lg:px-[50px]">
+        <div className="px-[20px] lg:px-[50px] font-monts">
             <div className="flex flex-row items-center mt-[20px]">
                 <p className="text-[20px] lg:text-[25px] font-medium">Latest Posts</p>
                 <MdOutlineKeyboardArrowRight className='md:w-[20px] md:h-[20px] lg:w-[30px] lg:h-[30px]'/>

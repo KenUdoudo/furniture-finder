@@ -32,23 +32,23 @@ const L1 = () => {
       <div className="flex flex-wrap justify-center mt-[20px] gap-[10px]">
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ one } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Racer Dining Chair</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Backless Bar Stool</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ two } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Tulip Mid Century Dining Table</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Matte Pine Pendants</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ three } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Seating Islands</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Rustic Hand-Woven Rattan Pendant Light</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ four } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">HAY PAO Portable Lamp</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Industrial Swing Arm Wall Sconce</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ five } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Sculptural Glassed Candlesticks</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">West Elm Industrial Storage Mini Desk</p>
         </div>
       </div>
     </div>
