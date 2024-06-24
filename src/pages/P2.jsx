@@ -1,4 +1,4 @@
-import { MdOutlPneKeyboardArrowRight } from "react-icons/md";
+import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import P1 from "../Pictures/P2/1.png";
 import P3 from "../Pictures/P2/3.png";
 import P6 from "../Pictures/P2/6.png";

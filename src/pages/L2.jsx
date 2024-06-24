@@ -1,7 +1,7 @@
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import L2 from "../Pictures/L1/2.png";
-import L3 from "../Pictures/L1/3.png";
-import L4 from "../Pictures/L1/4.png";
+import L2 from "../Pictures/L2/2.png";
+import L3 from "../Pictures/L2/3.png";
+import L4 from "../Pictures/L2/4.png";
 import one from "../Pictures/L1furniture/one.png";
 import two from "../Pictures/L1furniture/two.png";
 import three from "../Pictures/L1furniture/three.png";
