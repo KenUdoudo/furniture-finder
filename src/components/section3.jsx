@@ -31,7 +31,7 @@ const Bottom = () => {
                             <p className='text-center leading-[1] font-semibold'>Just <br />Posted <span className='hidden'>views</span></p>
                         </div>
                         <Link to="/L2" className='bg-[#ffeb3b] text-[#756d25] rounded-sm p-[2px] text-[10px] md:text-[16px] font-medium cursor-pointer'>Furnitures</Link>
-                        <a href=""><p className='bg-[#25f4ee] text-[#368a87] rounded-sm p-[2px] text-[10px] md:text-[16px] font-medium cursor-pointer'>Video</p></a>
+                        <a href="https://www.tiktok.com/@ken_lofi/photo/7383997378572930309?is_from_webapp=1&sender_device=pc&web_id=7383255718315197958"><p className='bg-[#25f4ee] text-[#368a87] rounded-sm p-[2px] text-[10px] md:text-[16px] font-medium cursor-pointer'>Video</p></a>
                     </div>
                 </div>
             </div>
