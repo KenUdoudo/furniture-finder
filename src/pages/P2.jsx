@@ -7,7 +7,6 @@ import two from "../Pictures/P2furniture/two.png";
 import three from "../Pictures/P2furniture/three.png";
 import four from "../Pictures/P2furniture/four.png";
 import five from "../Pictures/P2furniture/five.png";
-import six from "../Pictures/P2furniture/six.png";
 const L1 = () => {
   return (
     <div className="px-[20px] lg:px-[50px]">
@@ -33,27 +32,23 @@ const L1 = () => {
       <div className="flex flex-wrap justify-center mt-[20px] gap-[10px]">
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ one } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Racer Dining Chair</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Kettal - Basket Indoor Club Chair</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ two } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Tulip Mid Century Dining Table</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Dansk Side Table</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ three } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Seating Islands</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Teak Danish Desk Flip Top</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ four } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">HAY PAO Portable Lamp</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Tulip Opaline Pendant Lamp</p>
         </div>
         <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
             <img src={ five } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Sculptural Glassed Candlesticks</p>
-        </div>
-        <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
-            <img src={ six } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Blu Dot Lap 4 Drawer Dresser</p>
+            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Froseke Oval Wall Mirror</p>
         </div>
       </div>
     </div>
