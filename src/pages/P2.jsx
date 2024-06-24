@@ -55,10 +55,6 @@ const L1 = () => {
             <img src={ six } className="object-cover w-full h-[150px] md:h-[250px]"/>
             <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Blu Dot Lap 4 Drawer Dresser</p>
         </div>
-        <div className="border-[2px] border-black rounded-md w-[150px] md:w-[250px]">
-            <img src={ seven } className="object-cover w-full h-[150px] md:h-[250px]"/>
-            <p className="font-bold text-[13px] md:text-[16px] text-center py-[10px]">Normann Copenhagen Turn Side Table</p>
-        </div>
       </div>
     </div>
   );
