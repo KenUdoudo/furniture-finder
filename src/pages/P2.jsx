@@ -1,14 +1,13 @@
 import { MdOutlPneKeyboardArrowRight } from "react-icons/md";
-import P1 from "../Pictures/P1/1.png";
-import P3 from "../Pictures/P1/3.png";
-import P6 from "../Pictures/P1/6.png";
-import one from "../Pictures/L1furniture/one.png";
-import two from "../Pictures/L1furniture/two.png";
-import three from "../Pictures/L1furniture/three.png";
-import four from "../Pictures/L1furniture/four.png";
-import five from "../Pictures/L1furniture/five.png";
-import six from "../Pictures/L1furniture/six.png";
-import seven from "../Pictures/L1furniture/seven.png";
+import P1 from "../Pictures/P2/1.png";
+import P3 from "../Pictures/P2/3.png";
+import P6 from "../Pictures/P2/6.png";
+import one from "../Pictures/P2furniture/one.png";
+import two from "../Pictures/P2furniture/two.png";
+import three from "../Pictures/P2furniture/three.png";
+import four from "../Pictures/P2furniture/four.png";
+import five from "../Pictures/P2furniture/five.png";
+import six from "../Pictures/P2furniture/six.png";
 const L1 = () => {
   return (
     <div className="px-[20px] lg:px-[50px]">
