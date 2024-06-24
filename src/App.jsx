@@ -6,6 +6,7 @@ import Bottom from './components/section3'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import L1 from './pages/L1'
 import P1 from './pages/P1'
+import P2 from './pages/P2'
 function App() {
 
 
@@ -24,6 +25,7 @@ function App() {
         } />
         <Route path='/L1' element={<L1 />} />
         <Route path='/P1' element={<P1 />} />
+        <Route path='/P2' element={<P2 />} />
       </Routes>
     
     </Router>
